@@ -4,7 +4,7 @@ Take-home assignment for the **Robotics Software Intern** role at **Antropi Robo
 
 The goal: set up a TurtleBot3 in Gazebo, configure the ROS 2 Navigation2 (Nav2) stack, and show the robot driving to a goal by itself while avoiding obstacles.
 
-Demo video: https://youtu.be/Bl2damHA9BA
+
 
 Obstacle test in Gazebo
 
